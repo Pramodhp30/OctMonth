@@ -1,0 +1,1 @@
+Hi folks, we are discussing about git conflict issue from apple branch
