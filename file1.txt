@@ -1,1 +1,4 @@
+
 Hi folks, we are discussing about git conflict issue from apple branch
+hi folks, we are discussing git conflict using samsung branch
+
